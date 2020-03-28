@@ -1,0 +1,1 @@
+This is one of my module with covers all the Daily notifications with is given to the user. 
